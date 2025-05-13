@@ -21,7 +21,7 @@ Este repositório contém um script em Python que utiliza a ferramenta [GSocket]
 Clone o repositório:
 
 ```bash
-git clone https://github.com/Andreyftg/Shell-Reverso.git
+git clone https://github.com/AndreyFreitaz/Shell-Reverso.git
 cd Shell-Reverso
 python3 gsocket.py
 cat output.txt
